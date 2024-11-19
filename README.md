@@ -1,5 +1,5 @@
 # 05 Third-Party APIs: Work Day Scheduler 1
-Challenge Module 05
+Challenge Module 06
 
 
 
